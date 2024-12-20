@@ -10,6 +10,7 @@ ipdb
 
 # Used by environment
 gymnasium==0.29.1
+dill==0.3.8
 mujoco-py
 matplotlib
 scikit-learn
